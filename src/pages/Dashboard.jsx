@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import './Dashboard.css'; // Import the CSS file for styling
+
 
 const Dashboard = () => {
     return (
